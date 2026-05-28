@@ -1,7 +1,3 @@
-
-
----
-
 # Internet Addiction Severity Prediction: A Multi-Modal Deep Learning Approach
 
 ## 📌 Project Overview
@@ -110,8 +106,6 @@ The hybrid model was evaluated on the strictly isolated 200-participant Test Set
 
 ```text
 ├── BTP_final.ipynb          # End-to-end pipeline (Data Loading, Processing, Model, Evaluation)
-├── data/                    # Directory for dataset (Not tracked due to privacy/size)
-├── models/                  # Saved weights for the best performing hybrid model
 ├── README.md                # Project documentation
 
 ```
@@ -146,4 +140,5 @@ jupyter notebook
 
 ```
 
-3. Open `BTP_final.ipynb` and execute the cells sequentially to reproduce the preprocessing, training, and evaluation pipelines.
+3. **Data Configuration:** Open `BTP_final.ipynb`. *Note: The original dataset is not included in this repository due to privacy and size constraints.* To run the notebook, you will need to provide your own formatted dataset and update the file paths in the data ingestion cells accordingly.
+4. Execute the cells sequentially to reproduce the preprocessing, training, and evaluation pipelines.
