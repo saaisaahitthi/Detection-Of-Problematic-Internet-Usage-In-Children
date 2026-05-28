@@ -1,6 +1,4 @@
-Here is a highly detailed, professional-grade `README.md` file. This version dives deep into the mathematical and architectural decisions, the data engineering pipeline, and the training parameters. It is designed to show hiring managers and senior engineers that you have a profound understanding of end-to-end deep learning pipelines.
 
-You can copy and paste this directly into your GitHub repository!
 
 ---
 
