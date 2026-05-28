@@ -1,4 +1,4 @@
-# Internet Addiction Severity Prediction: A Multi-Modal Deep Learning Approach
+#Problematic Internet Usage Prediction : A Multi-Modal Deep Learning Approach
 
 ## 📌 Project Overview
 
